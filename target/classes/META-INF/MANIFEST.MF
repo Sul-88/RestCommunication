@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PersonService
+Implementation-Version: 1.1.0
+Built-By: sulaiman
+Implementation-Vendor-Id: com.sul.rest
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PersonService
+Created-By: Maven Integration for Eclipse
+
