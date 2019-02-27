@@ -21,11 +21,12 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.sul.person.service.PersonApplication;
-import com.sul.person.service.dto.PersonDTO;
-import com.sul.person.service.dto.PersonError;
-import com.sul.person.service.messaging.event.EventPublisher;
-import com.sul.person.service.repository.PersonJpaRepository;
+import com.sul.rest.service.RestApplication;
+import com.sul.rest.service.dto.PersonDTO;
+import com.sul.rest.service.dto.PersonError;
+import com.sul.rest.service.messaging.event.EventPublisher;
+import com.sul.rest.service.repository.PersonJpaRepository;
+import com.sul.rest.service.rest.PersonRestController;
 
 /**
  * @author sulaiman
@@ -33,7 +34,7 @@ import com.sul.person.service.repository.PersonJpaRepository;
  *         Testing PersonRestController: Database must be connected
  */
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = PersonApplication.class, webEnvironment = WebEnvironment.RANDOM_PORT)
+@SpringBootTest(classes = RestApplication.class, webEnvironment = WebEnvironment.RANDOM_PORT)
 public class PersonRestControllerIntegrationTest {
 
 	@Spy

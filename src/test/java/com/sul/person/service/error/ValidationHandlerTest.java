@@ -23,7 +23,11 @@ import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 
-import com.sul.person.service.config.MessageSourceConfiguration;
+import com.sul.rest.service.config.MessageSourceConfiguration;
+import com.sul.rest.service.error.FieldValidationError;
+import com.sul.rest.service.error.FieldValidationErrorDetails;
+import com.sul.rest.service.error.MessageType;
+import com.sul.rest.service.error.ValidationHandler;
 
 /**
  * @author Sulaiman Abboud

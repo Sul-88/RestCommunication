@@ -13,7 +13,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.sul.person.service.dto.PersonDTO;
+import com.sul.rest.service.dto.PersonDTO;
 
 /**
  * @author Sulaiman Abboud

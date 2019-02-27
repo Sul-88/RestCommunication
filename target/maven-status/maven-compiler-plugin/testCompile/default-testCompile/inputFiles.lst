@@ -1,3 +1,3 @@
-/home/sulaiman/eclipse-workspace/maven-projects/prodyna/PersonService/src/test/java/com/sul/person/service/error/ValidationHandlerTest.java
-/home/sulaiman/eclipse-workspace/maven-projects/prodyna/PersonService/src/test/java/com/sul/person/service/error/EntityValidationTest.java
-/home/sulaiman/eclipse-workspace/maven-projects/prodyna/PersonService/src/test/java/com/sul/person/service/rest/PersonRestControllerIntegrationTest.java
+/home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/test/java/com/sul/person/service/error/EntityValidationTest.java
+/home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/test/java/com/sul/person/service/rest/PersonRestControllerIntegrationTest.java
+/home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/test/java/com/sul/person/service/error/ValidationHandlerTest.java
