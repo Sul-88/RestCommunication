@@ -25,7 +25,7 @@
 
 	<!-- Loggers -->
 	
-	<logger name="com.sul.person.service.monitoring.CustomPerformanceMonitorInterceptor"
+	<logger name="com.sul.rest.service.monitoring.CustomPerformanceMonitorInterceptor"
 		level="trace">
 		<appender-ref ref="colorAppender" />
 	</logger>

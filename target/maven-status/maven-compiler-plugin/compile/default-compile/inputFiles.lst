@@ -1,6 +1,5 @@
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/messaging/jms/JmsConstants.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/monitoring/CustomPerformanceMonitorInterceptor.java
-/home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/rest/PersonRestController.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/dto/PersonDTO.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/messaging/jms/JmsReceiver.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/messaging/event/EventPublisher.java
@@ -17,6 +16,7 @@
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/messaging/jms/JmsMessageSender.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/RestApplication.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/repository/PersonDetailJpaRepository.java
+/home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/controller/PersonRestController.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/error/FieldValidationError.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/error/ValidationHandler.java
 /home/sulaiman/eclipse-workspace/maven-projects/communication/RestService/src/main/java/com/sul/rest/service/dto/PersonDetailDTO.java

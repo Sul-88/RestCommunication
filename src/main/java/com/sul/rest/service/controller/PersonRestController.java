@@ -1,4 +1,4 @@
-package com.sul.rest.service.rest;
+package com.sul.rest.service.controller;
 
 import java.util.List;
 

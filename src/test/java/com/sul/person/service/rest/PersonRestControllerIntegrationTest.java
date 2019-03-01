@@ -22,11 +22,11 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.sul.rest.service.RestApplication;
+import com.sul.rest.service.controller.PersonRestController;
 import com.sul.rest.service.dto.PersonDTO;
 import com.sul.rest.service.dto.PersonError;
 import com.sul.rest.service.messaging.event.EventPublisher;
 import com.sul.rest.service.repository.PersonJpaRepository;
-import com.sul.rest.service.rest.PersonRestController;
 
 /**
  * @author sulaiman

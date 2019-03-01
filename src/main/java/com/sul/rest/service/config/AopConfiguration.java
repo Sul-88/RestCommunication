@@ -18,7 +18,7 @@ import com.sul.rest.service.monitoring.CustomPerformanceMonitorInterceptor;
 @EnableAspectJAutoProxy
 @Aspect
 public class AopConfiguration {
-	@Pointcut("execution(* com.sul.rest.service.rest.*.*(..))")
+	@Pointcut("execution(* com.sul.rest.service.controller.*.*(..))")
 	public void myMonitor() {
 	}
 
